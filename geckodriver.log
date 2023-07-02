@@ -1,0 +1,68 @@
+1688243066414	geckodriver	INFO	Listening on 127.0.0.1:12869
+1688243069500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "12870" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aser\\AppData\\Local\\Temp\\rust_mozprofileMK3BFK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688243069810	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688243069815	Marionette	INFO	Listening on port 12880
+Read port: 12880
+WebDriver BiDi listening on ws://127.0.0.1:12870
+1688243069935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:12870/devtools/browser/327ae228-8ae1-4344-ae0f-a3f9d21c548d
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1687516025, line 6289: unreachable code after return statement
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1687516025, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1688243094222	Marionette	INFO	Stopped listening on port 12880
+Dynamically enable window occlusion 1
+1688279386764	geckodriver	INFO	Listening on 127.0.0.1:14458
+1688279434821	geckodriver	INFO	Listening on 127.0.0.1:14473
+1688279536194	geckodriver	INFO	Listening on 127.0.0.1:14489
+1688280305887	geckodriver	INFO	Listening on 127.0.0.1:14776
+1688281244666	geckodriver	INFO	Listening on 127.0.0.1:2550
+1688281279692	geckodriver	INFO	Listening on 127.0.0.1:2565
+1688281347799	geckodriver	INFO	Listening on 127.0.0.1:2611
+1688281636074	geckodriver	INFO	Listening on 127.0.0.1:2719
+1688281639134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aser\\AppData\\Local\\Temp\\rust_mozprofileFTMPkm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688281639504	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688281639510	Marionette	INFO	Listening on port 2729
+Read port: 2729
+WebDriver BiDi listening on ws://127.0.0.1:2720
+1688281639644	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:2720/devtools/browser/074d8a08-aca2-4da6-b04c-1862a129e637
+JavaScript warning: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1687516025, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 14: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://cdn.stepik.net/static/frontend-build/vendor.js?v=1687516025, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1688281660410	Marionette	INFO	Stopped listening on port 2729
+Dynamically enable window occlusion 1
+[Parent 12652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1688281683350	geckodriver	INFO	Listening on 127.0.0.1:2805
+1688281686401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aser\\AppData\\Local\\Temp\\rust_mozprofileGRvTzO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688281686696	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688281686700	Marionette	INFO	Listening on port 2813
+Read port: 2813
+WebDriver BiDi listening on ws://127.0.0.1:2806
+1688281686811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:2806/devtools/browser/280a9c9c-e2dd-43d2-be82-c78e79454838
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1688281689838	Marionette	INFO	Stopped listening on port 2813
+Dynamically enable window occlusion 1
+1688287045999	geckodriver	INFO	Listening on 127.0.0.1:4383
+1688287049068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "4384" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Aser\\AppData\\Local\\Temp\\rust_mozprofilezf83Vj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688287049369	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688287049373	Marionette	INFO	Listening on port 4391
+Read port: 4391
+WebDriver BiDi listening on ws://127.0.0.1:4384
+1688287049484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:4384/devtools/browser/9355945b-0348-4889-a2fa-c863e7d97fbf
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/coders-at-work_207/, line 614: ReferenceError: oscar is not defined
+1688287062623	Marionette	INFO	Stopped listening on port 4391
+Dynamically enable window occlusion 1
